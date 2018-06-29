@@ -1,2 +1,4 @@
-# options-trading-playground
-A playground for determining options trading strategies
+# Option Trading Playground
+Scripts to determine which strategies suck and which suck less.
+
+Will update soon...
